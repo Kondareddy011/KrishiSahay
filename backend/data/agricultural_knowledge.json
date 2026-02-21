@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Rice Cultivation Basics",
+    "content": "Rice is a staple crop in India. For optimal growth, plant rice during monsoon season (June-July). Use 20-25 kg seeds per hectare. Soil should be well-drained with pH 5-6.5. Apply NPK fertilizer in ratio 100:50:50 kg/ha in split doses - 50% at transplanting, 25% at tillering, 25% at panicle initiation. Maintain 5-7 cm water depth during growth. Harvest when 80% grains turn golden yellow and moisture content is 20-25%.",
+    "category": "Crops & Cultivation"
+  },
+  {
+    "title": "Wheat Farming Guide",
+    "content": "Wheat grows best in loamy soil with pH 6-7.5. Optimal sowing time is November-December. Use 100-125 kg seeds per hectare. Apply fertilizers: 120 kg N, 60 kg P2O5, 40 kg K2O per hectare. Split nitrogen application - 50% at sowing, 25% at first irrigation, 25% at second irrigation. Water requirement is 4-6 irrigations. Harvest when grains are hard and moisture is 20-25%. Expected yield: 4-5 tonnes per hectare.",
+    "category": "Crops & Cultivation"
+  },
+  {
+    "title": "Cotton Cultivation",
+    "content": "Cotton requires well-drained black or alluvial soil with pH 6-8. Sow from April to June. Seed rate: 12-15 kg/ha. Apply 80-100 kg N, 40-50 kg P2O5, 40-50 kg K2O per hectare. Provide 6-8 irrigations during growth period. Control weeds with pre-emergence herbicides. Harvest when bolls open completely. Average yield: 500-600 kg lint per hectare.",
+    "category": "Crops & Cultivation"
+  },
+  {
+    "title": "Pest Control in Rice",
+    "content": "Common rice pests include stem borer, leaf folder, and brown planthopper. Use integrated pest management (IPM). Apply neem-based pesticides as first line of defense. For stem borer, use cartap hydrochloride or chlorantraniliprole. For leaf folder, use emamectin benzoate. Maintain field hygiene, remove weeds, and use resistant varieties. Monitor fields weekly during critical growth stages.",
+    "category": "Pest Management"
+  },
+  {
+    "title": "Aphid Control Methods",
+    "content": "Aphids are small sap-sucking insects that damage crops. Control methods: 1) Use neem oil spray (5ml per liter water) weekly. 2) Release beneficial insects like ladybugs. 3) Apply imidacloprid or acetamiprid if infestation is severe. 4) Remove affected leaves. 5) Use reflective mulches. 6) Maintain proper spacing between plants for air circulation. Early detection and treatment prevent crop loss.",
+    "category": "Pest Management"
+  },
+  {
+    "title": "Organic Pesticides for Vegetables",
+    "content": "For organic vegetable farming, use: 1) Neem oil (5ml/liter) - effective against aphids, mites. 2) Garlic-chili spray - blend 10 garlic cloves + 5 chilies in 1 liter water, strain and spray. 3) Soap solution - 10ml liquid soap per liter water. 4) Cow urine (10%) mixed with neem oil. 5) Trichoderma for fungal diseases. Apply early morning or evening. Repeat every 7-10 days. Maintain crop rotation and field hygiene.",
+    "category": "Pest Management"
+  },
+  {
+    "title": "NPK Fertilizer Guide",
+    "content": "NPK stands for Nitrogen (N), Phosphorus (P), and Potassium (K). For most crops, NPK ratio 4:2:1 works well. Apply based on soil test results. Nitrogen promotes leaf growth - apply in split doses (50% at sowing, 25% at tillering, 25% at flowering). Phosphorus aids root development - apply at sowing. Potassium improves fruit quality - apply during flowering. Use organic compost (10-15 tonnes/ha) to improve soil health and reduce chemical fertilizer need.",
+    "category": "Fertilizers"
+  },
+  {
+    "title": "Urea Application Timing",
+    "content": "Urea (46% N) is a common nitrogen fertilizer. Apply in split doses for better efficiency: 50% at sowing/transplanting, 25% at tillering (20-25 days after sowing), 25% at panicle initiation (45-50 days). For rice: 100-120 kg/ha total. For wheat: 120-150 kg/ha. Apply when soil is moist. Avoid application during heavy rain. Mix with soil immediately after application to prevent nitrogen loss. Water the field after application.",
+    "category": "Fertilizers"
+  },
+  {
+    "title": "Organic Fertilizer Options",
+    "content": "Organic fertilizers improve soil health: 1) Farmyard manure (FYM) - 10-15 tonnes/ha annually. 2) Compost - kitchen waste, crop residues decomposed. 3) Vermicompost - 5-10 tonnes/ha. 4) Green manure - grow legumes like sunnhemp, dhaincha and plow before flowering. 5) Biofertilizers - Rhizobium for legumes, Azotobacter for cereals. 6) Bone meal, fish meal for phosphorus. Apply organic fertilizers 15-20 days before sowing for best results.",
+    "category": "Fertilizers"
+  },
+  {
+    "title": "PM-KISAN Scheme",
+    "content": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) provides Rs 6,000 per year to eligible farmers in three installments of Rs 2,000 each. Eligibility: Small and marginal farmers with cultivable land. Exclusions: Income tax payers, government employees, professionals. Application: Online at pmkisan.gov.in or through Common Service Centers. Required documents: Aadhaar, bank account details, land records. Benefits transferred directly to bank account.",
+    "category": "Government Schemes"
+  },
+  {
+    "title": "Crop Insurance Benefits",
+    "content": "Pradhan Mantri Fasal Bima Yojana (PMFBY) provides crop insurance. Premium: 2% for Kharif crops, 1.5% for Rabi crops, 5% for commercial/horticultural crops. Coverage: Natural disasters, pests, diseases. Claim process: Report loss within 72 hours. Survey conducted by insurance company. Compensation based on crop cutting experiments. Benefits: Financial security, risk mitigation, loan eligibility. Apply through banks or insurance companies before sowing.",
+    "category": "Government Schemes"
+  },
+  {
+    "title": "Kisan Credit Card Details",
+    "content": "Kisan Credit Card (KCC) provides credit for agricultural needs. Features: Interest subvention of 2% (effective rate 4% per annum), flexible repayment, credit limit based on landholding. Eligibility: All farmers including tenant farmers, sharecroppers. Documents needed: Land records, Aadhaar, bank account. Credit limit: Rs 1.6 lakh for crop production, additional for allied activities. Repayment: Flexible, linked to crop cycle. Apply at nearest bank branch.",
+    "category": "Government Schemes"
+  },
+  {
+    "title": "Soil Preparation for Wheat",
+    "content": "Proper soil preparation ensures good wheat yield. Steps: 1) Plow field 2-3 times with 15-20 days interval. 2) Apply 10-15 tonnes FYM per hectare. 3) Level the field properly. 4) Create fine tilth - soil should be crumbly, not powdery. 5) Ensure proper drainage. 6) Test soil pH (should be 6-7.5). 7) Apply basal dose of fertilizers before last plowing. 8) Prepare seedbed 7-10 days before sowing. Well-prepared soil improves germination and root development.",
+    "category": "Crops & Cultivation"
+  },
+  {
+    "title": "Water Requirements for Cotton",
+    "content": "Cotton needs 6-8 irrigations during growth period. Critical stages: 1) Sowing to germination (light irrigation). 2) Flowering (most critical - ensure adequate moisture). 3) Boll formation (regular irrigation). 4) Boll opening (reduce water). Total water requirement: 600-800 mm. Use drip irrigation for water efficiency (saves 40-50% water). Avoid waterlogging. Schedule irrigation based on soil moisture. Stop irrigation 2-3 weeks before harvest for better fiber quality.",
+    "category": "Crops & Cultivation"
+  },
+  {
+    "title": "Maize NPK Requirements",
+    "content": "Maize requires balanced nutrition. Recommended NPK: 150:75:60 kg/ha (N:P2O5:K2O). Apply nitrogen in split doses: 50% at sowing, 25% at knee-high stage (30-35 days), 25% at tasseling (50-55 days). Phosphorus and potassium applied as basal dose at sowing. For hybrid varieties, increase nitrogen to 180 kg/ha. Use soil test results for precise application. Apply fertilizers 5-7 cm deep and cover with soil. Irrigate after fertilizer application.",
+    "category": "Fertilizers"
+  },
+  {
+    "title": "Paddy Stem Borer Identification",
+    "content": "Paddy stem borer (Scirpophaga incertulas) is a major rice pest. Identification: Larvae are creamy white with brown head, found inside stems. Adults are white/yellow moths. Symptoms: Dead hearts (drying of central shoot) in vegetative stage, white ears (empty panicles) in reproductive stage. Control: Use resistant varieties (IR64, Swarna). Apply cartap hydrochloride 50G @ 10kg/ha or chlorantraniliprole @ 0.4kg/ha. Release Trichogramma wasps. Remove stubbles after harvest.",
+    "category": "Pest Management"
+  }
+]

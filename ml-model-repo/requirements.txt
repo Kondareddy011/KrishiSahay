@@ -1,0 +1,13 @@
+# Core ML libraries (install compatible versions for your Python version)
+sentence-transformers
+faiss-cpu
+transformers
+torch
+numpy
+
+# Note: For Python 3.7, you may need specific versions:
+# sentence-transformers==2.0.0
+# faiss-cpu==1.7.3
+# transformers==4.18.0
+# torch==1.11.0
+# numpy==1.21.6
